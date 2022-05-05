@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Petko\Documents\OOП_code\Project-E-LibraryCODE\main.cpp(33,65): warning C4305: 'argument': truncation from 'double' to 'const float'
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall Book::Book(char const *,char const *,char const *,char const *,float,int)" (??0Book@@QAE@PBD000MH@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall Book::~Book(void)" (??1Book@@QAE@XZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Book const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABVBook@@@Z) referenced in function _main
+C:\Users\Petko\Documents\OO?_code\Project-E-LibraryCODE\Debug\E-Library.exe : fatal error LNK1120: 3 unresolved externals

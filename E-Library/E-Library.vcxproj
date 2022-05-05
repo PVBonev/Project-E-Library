@@ -139,11 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ELibrary.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ELibrary.h" />
     <ClInclude Include="Book.h" />
     <ClInclude Include="Book.cpp" />
   </ItemGroup>
