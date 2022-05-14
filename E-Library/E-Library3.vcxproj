@@ -139,9 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BookStatickcpp.cpp" />
-    <ClCompile Include="E-Library3.cpp" />
-    <ClCompile Include="BookStatick.h" />
+    <ClCompile Include="BookStatic.cpp" />
+    <ClCompile Include="E-Library.h" />
+    <ClCompile Include="ELibrary.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="BookStatic.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

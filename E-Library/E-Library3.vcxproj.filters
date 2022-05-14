@@ -15,14 +15,20 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="E-Library3.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BookStatickcpp.cpp">
+    <ClCompile Include="BookStatic.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BookStatick.h">
+    <ClCompile Include="ELibrary.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BookStatic.h">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E-Library.h">
+      <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
